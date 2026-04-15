@@ -30,9 +30,9 @@
 ## Week 5
 | # | Title | Solution | Difficulty |
 |---|---|---|---|
-| 1499 | [Max Value of Equation](https://leetcode.com/problems/max-value-of-equation/) | [C++](https://github.com/morris3910/leetcode/blob/main/Week5/1499_Max-Value-of-Equation.cpp) | Hard |
 | 932 | [Beautiful Array](https://leetcode.com/problems/beautiful-array/) | [C++](https://github.com/morris3910/leetcode/blob/main/Week5/932_Beautiful-Array.cpp) | Medium |
 | 995 | [Minimum Number of K Consecutive Bit Flips](https://leetcode.com/problems/minimum-number-of-k-consecutive-bit-flips/) | [C++](https://github.com/morris3910/leetcode/blob/main/Week5/995_Minimum-Number-of-K-Consecutive-Bit-Flips.cpp) | Hard |
+| 1499 | [Max Value of Equation](https://leetcode.com/problems/max-value-of-equation/) | [C++](https://github.com/morris3910/leetcode/blob/main/Week5/1499_Max-Value-of-Equation.cpp) | Hard |
 
 ## Week 6
 | # | Title | Solution | Difficulty |
