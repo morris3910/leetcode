@@ -1,0 +1,35 @@
+name: Update README
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - "Week*/*.cpp"
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install dependencies
+        run: pip install requests
+
+      - name: Regenerate README.md
+        run: python .github/scripts/update_readme.py
+
+      - name: Commit and push if changed
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git diff --quiet README.md && echo "No changes." && exit 0
+          git add README.md
+          git commit -m "docs: auto-update README.md"
+          git push
