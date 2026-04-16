@@ -1,5 +1,5 @@
 class Solution {
-public:
+public: 
     using pii = std::pair<int, int>;
     std::vector<pii> moves = {{0, 1}, {0, -1}, {1, 0}, {-1, 0}};
 
