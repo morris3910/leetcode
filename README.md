@@ -3,8 +3,8 @@
 ## Week 1
 | # | Title | Solution | Difficulty |
 |---|---|---|---|
-| 25 | [Reverse Nodes in k-Group](https://leetcode.com/problems/reverse-nodes-in-k-group/) | [C++](https://github.com/morris3910/leetcode/blob/main/Week1/25_Reverse-Nodes-in-k-Group.cpp) | Hard |
 | 1609 | [Even Odd Tree](https://leetcode.com/problems/even-odd-tree/) | [C++](https://github.com/morris3910/leetcode/blob/main/Week1/1609_Even-Odd-Tree.cpp) | Medium |
+| 25 | [Reverse Nodes in k-Group](https://leetcode.com/problems/reverse-nodes-in-k-group/) | [C++](https://github.com/morris3910/leetcode/blob/main/Week1/25_Reverse-Nodes-in-k-Group.cpp) | Hard |
 | 3510 | [Minimum Pair Removal to Sort Array II](https://leetcode.com/problems/minimum-pair-removal-to-sort-array-ii/) | [C++](https://github.com/morris3910/leetcode/blob/main/Week1/3510_Minimum-Pair-Removal-to-Sort-Array-II.cpp) | Hard |
 
 ## Week 2
@@ -30,11 +30,12 @@
 ## Week 5
 | # | Title | Solution | Difficulty |
 |---|---|---|---|
+| 1499 | [Max Value of Equation](https://leetcode.com/problems/max-value-of-equation/) | [C++](https://github.com/morris3910/leetcode/blob/main/Week5/1499_Max-Value-of-Equation.cpp) | Hard |
 | 932 | [Beautiful Array](https://leetcode.com/problems/beautiful-array/) | [C++](https://github.com/morris3910/leetcode/blob/main/Week5/932_Beautiful-Array.cpp) | Medium |
 | 995 | [Minimum Number of K Consecutive Bit Flips](https://leetcode.com/problems/minimum-number-of-k-consecutive-bit-flips/) | [C++](https://github.com/morris3910/leetcode/blob/main/Week5/995_Minimum-Number-of-K-Consecutive-Bit-Flips.cpp) | Hard |
-| 1499 | [Max Value of Equation](https://leetcode.com/problems/max-value-of-equation/) | [C++](https://github.com/morris3910/leetcode/blob/main/Week5/1499_Max-Value-of-Equation.cpp) | Hard |
 
 ## Week 6
 | # | Title | Solution | Difficulty |
 |---|---|---|---|
+| 154 | [Find Minimum in Rotated Sorted Array II](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array-ii/) | [C++](https://github.com/morris3910/leetcode/blob/main/Week6/154_Find-Minimum-in-Rotated-Sorted-Array-II.cpp) | Hard |
 | 79 | [Word Search](https://leetcode.com/problems/word-search/) | [C++](https://github.com/morris3910/leetcode/blob/main/Week6/79_Word-Search.cpp) | Medium |
