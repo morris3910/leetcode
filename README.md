@@ -38,4 +38,5 @@
 | # | Title | Solution | Difficulty |
 |---|---|---|---|
 | 154 | [Find Minimum in Rotated Sorted Array II](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array-ii/) | [C++](https://github.com/morris3910/leetcode/blob/main/Week6/154_Find-Minimum-in-Rotated-Sorted-Array-II.cpp) | Hard |
+| 710 | [Random Pick with Blacklist](https://leetcode.com/problems/random-pick-with-blacklist/) | [C++](https://github.com/morris3910/leetcode/blob/main/Week6/710_Random-Pick-with-Blacklist.cpp) | Hard |
 | 79 | [Word Search](https://leetcode.com/problems/word-search/) | [C++](https://github.com/morris3910/leetcode/blob/main/Week6/79_Word-Search.cpp) | Medium |
