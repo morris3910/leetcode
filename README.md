@@ -45,3 +45,4 @@
 | # | Title | Solution | Difficulty |
 |---|---|---|---|
 | 135 | [Candy](https://leetcode.com/problems/candy/) | [C++](https://github.com/morris3910/leetcode/blob/main/Week7/135_Candy.cpp) | Hard |
+| 1383 | [Maximum Performance of a Team](https://leetcode.com/problems/maximum-performance-of-a-team/) | [C++](https://github.com/morris3910/leetcode/blob/main/Week7/1383_Maximum-Performance-of-a-Team.cpp) | Hard |
