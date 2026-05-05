@@ -54,6 +54,7 @@
 |---|---|---|---|
 | 2139 | [Minimum Moves to Reach Target Score](https://leetcode.com/problems/minimum-moves-to-reach-target-score/) | [C++](https://github.com/morris3910/leetcode/blob/main/Week8/2139_Minimum-Moves-to-Reach-Target-Score.cpp) | Medium |
 | 44 | [Wildcard Matching](https://leetcode.com/problems/wildcard-matching/) | [C++](https://github.com/morris3910/leetcode/blob/main/Week8/44_Wildcard-Matching.cpp) | Hard |
+| 630 | [Course Schedule III](https://leetcode.com/problems/course-schedule-iii/) | [C++](https://github.com/morris3910/leetcode/blob/main/Week8/630_Course-Schedule-III.cpp) | Hard |
 
 ## Week 9
 | # | Title | Solution | Difficulty |
