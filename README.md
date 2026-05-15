@@ -62,3 +62,8 @@
 | 2366 | [Minimum Replacements to Sort the Array](https://leetcode.com/problems/minimum-replacements-to-sort-the-array/) | [C++](https://github.com/morris3910/leetcode/blob/main/Week9/2366_Minimum-Replacements-to-Sort-the-Array.cpp) | Hard |
 | 2405 | [Optimal Partition of String](https://leetcode.com/problems/optimal-partition-of-string/) | [C++](https://github.com/morris3910/leetcode/blob/main/Week9/2405_Optimal-Partition-of-String.cpp) | Medium |
 | 765 | [Couples Holding Hands](https://leetcode.com/problems/couples-holding-hands/) | [C++](https://github.com/morris3910/leetcode/blob/main/Week9/765_Couples-Holding-Hands.cpp) | Hard |
+
+## Week 10
+| # | Title | Solution | Difficulty |
+|---|---|---|---|
+| 134 | [Gas Station](https://leetcode.com/problems/gas-station/) | [C++](https://github.com/morris3910/leetcode/blob/main/Week10/134_Gas-Station.cpp) | Medium |
