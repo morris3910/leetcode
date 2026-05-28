@@ -74,9 +74,12 @@
 | # | Title | Solution | Difficulty |
 |---|---|---|---|
 | 403 | [Frog Jump](https://leetcode.com/problems/frog-jump/) | [C++](https://github.com/morris3910/leetcode/blob/main/Week11/403_Frog-Jump.cpp) | Hard |
+| 546 | [Remove Boxes](https://leetcode.com/problems/remove-boxes/) | [C++](https://github.com/morris3910/leetcode/blob/main/Week11/546_Remove-Boxes.cpp) | Hard |
 | 581 | [Shortest Unsorted Continuous Subarray](https://leetcode.com/problems/shortest-unsorted-continuous-subarray/) | [C++](https://github.com/morris3910/leetcode/blob/main/Week11/581_Shortest-Unsorted-Continuous-Subarray.cpp) | Medium |
 
 ## Week 12
 | # | Title | Solution | Difficulty |
 |---|---|---|---|
 | 396 | [Rotate Function](https://leetcode.com/problems/rotate-function/) | [C++](https://github.com/morris3910/leetcode/blob/main/Week12/396_Rotate-Function.cpp) | Medium |
+| 639 | [Decode Ways II](https://leetcode.com/problems/decode-ways-ii/) | [C++](https://github.com/morris3910/leetcode/blob/main/Week12/639_Decode-Ways-II.cpp) | Hard |
+| 664 | [Strange Printer](https://leetcode.com/problems/strange-printer/) | [C++](https://github.com/morris3910/leetcode/blob/main/Week12/664_Strange-Printer.cpp) | Hard |
