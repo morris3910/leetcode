@@ -83,3 +83,8 @@
 | 396 | [Rotate Function](https://leetcode.com/problems/rotate-function/) | [C++](https://github.com/morris3910/leetcode/blob/main/Week12/396_Rotate-Function.cpp) | Medium |
 | 639 | [Decode Ways II](https://leetcode.com/problems/decode-ways-ii/) | [C++](https://github.com/morris3910/leetcode/blob/main/Week12/639_Decode-Ways-II.cpp) | Hard |
 | 664 | [Strange Printer](https://leetcode.com/problems/strange-printer/) | [C++](https://github.com/morris3910/leetcode/blob/main/Week12/664_Strange-Printer.cpp) | Hard |
+
+## Week 13
+| # | Title | Solution | Difficulty |
+|---|---|---|---|
+| 5 | [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/) | [C++](https://github.com/morris3910/leetcode/blob/main/Week13/5_Longest-Palindromic-Substring.cpp) | Medium |
