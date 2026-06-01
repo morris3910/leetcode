@@ -88,3 +88,8 @@
 | # | Title | Solution | Difficulty |
 |---|---|---|---|
 | 5 | [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/) | [C++](https://github.com/morris3910/leetcode/blob/main/Week13/5_Longest-Palindromic-Substring.cpp) | Medium |
+
+## Week 14
+| # | Title | Solution | Difficulty |
+|---|---|---|---|
+| 377 | [Combination Sum IV](https://leetcode.com/problems/combination-sum-iv/) | [C++](https://github.com/morris3910/leetcode/blob/main/Week14/377_Combination-Sum-IV.cpp) | Medium |
