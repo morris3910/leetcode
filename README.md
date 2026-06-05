@@ -95,3 +95,4 @@
 | # | Title | Solution | Difficulty |
 |---|---|---|---|
 | 377 | [Combination Sum IV](https://leetcode.com/problems/combination-sum-iv/) | [C++](https://github.com/morris3910/leetcode/blob/main/Week14/377_Combination-Sum-IV.cpp) | Medium |
+| 458 | [Poor Pigs](https://leetcode.com/problems/poor-pigs/) | [C++](https://github.com/morris3910/leetcode/blob/main/Week14/458_Poor-Pigs.cpp) | Hard |
